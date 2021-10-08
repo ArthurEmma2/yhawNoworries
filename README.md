@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Arthur Emmanuel
+
+An aspiring front end  and blockhain developer with African Blockchain Institue(ABI)  summer bootcamp certifficate..
+i really have passsion for web development and i'm currently  building  more project with vanilla javascript and react...  
 
 <!--
 **yhawNoworries/yhawNoworries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
