@@ -2,9 +2,11 @@
 
 I'm Arthur Emmanuel
 
-An aspiring front end  and blockhain developer with African Blockchain Institue(ABI)  summer bootcamp certifficate..
-i really have passsion for web development and i'm currently  building  more project with vanilla javascript and react...  
+My name is Arthur Emmanuel i'm a self-thought developer an aspiring blockchain and a web developer and i'm highly inspired by mordern technologies always try to be in trend in order to produce maximally innovative, testable, maintanable and stable code. i have created some projects from scratch and also i'm eager to learn more skills.
 
+ i'm also familiar with modern and up to date technologies to deliver high quality programming services.
+
+I do possess good communication skills which will surely allow me to communicate effectively to every clients... My main skills: Html , Css, Javascript, React , solidity and tools like git
 <!--
 **yhawNoworries/yhawNoworries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
