@@ -2,11 +2,11 @@
 
 I'm Arthur Emmanuel
 
-A self-thought developer an aspiring blockchain and a web developer and i'm highly inspired by mordern technologies always try to be in trend in order to produce maximally innovative, testable, maintanable and stable code. i have created some projects from scratch and also i'm eager to learn more skills.
+A self-thought web developer and blockchain enthusiast. A web developer and i'm highly inspired by mordern technologies always try to be in trend in order to produce maximally innovative, testable, maintanable and stable code. i have created some projects from scratch and also i'm eager to learn more skills.
 
  i'm also familiar with modern and up to date technologies to deliver high quality programming services.
 
-I do possess good communication skills which will surely allow me to communicate effectively to every clients... My main skills: Html , Css, Javascript, React , solidity and tools like git
+I do possess good communication skills which will surely allow me to communicate effectively to every clients... My main skills: Html , Css, Javascript, React , redux, tailwind css, next js, node js, express js, github and tools like git
 <!--
 **yhawNoworries/yhawNoworries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
