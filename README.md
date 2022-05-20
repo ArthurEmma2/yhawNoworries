@@ -2,7 +2,7 @@
 
 I'm Arthur Emmanuel
 
-A self-thought web developer and a blockchain enthusiast. A web developer and i'm highly inspired by mordern technologies always try to be in trend in order to produce maximally innovative, testable, maintanable and stable code. i have created some projects from scratch and also i'm eager to learn more skills.
+A self-thought web developer and a blockchain enthusiast.I Am highly inspired by mordern technologies always try to be in trend in order to produce maximally innovative, testable, maintanable and stable code. i have created some projects from scratch and also i'm eager to learn more skills.
 
  i'm also familiar with modern and up to date technologies to deliver high quality programming services.
 
